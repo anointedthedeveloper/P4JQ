@@ -528,6 +528,22 @@
     "examyear": "2007"
   },
   {
+    "id": 34,
+    "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
+    "option": {
+      "a": "76cm ",
+      "b": "75cm ",
+      "c": "60cm ",
+      "d": "70cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 35,
     "question": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
     "option": {
@@ -2352,6 +2368,22 @@
     "examyear": "2015"
   },
   {
+    "id": 149,
+    "question": "The external parts of an object can be measure accurately through the use of which scientific instrument?",
+    "option": {
+      "a": "Micrometer screw gauge",
+      "b": " Vernier Caliper",
+      "c": "Meter rule",
+      "d": "None of the instrument"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Vernier calliper is used to measure the internal and external diameter of an object",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 150,
     "question": "Convert 45°C to kelvin",
     "option": {
@@ -2364,6 +2396,22 @@
     "image": "",
     "answer": "a",
     "solution": "Note: T = 273 + θ\n\nθ = 45°\n\nT = 273 + 45\n\n= 318K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 151,
+    "question": "A member of the crew of a SPACESHIP experiences weightlessness in a space when they",
+    "option": {
+      "a": " Fall freely from the earth’s gravitational field",
+      "b": "Is walking on the planet",
+      "c": "In between the sun and the earth",
+      "d": "Holding anything in space is negative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Weightlessness:– The state of being free from the effects of gravity. (zero gravity)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3264,6 +3312,22 @@
     "examyear": "2016"
   },
   {
+    "id": 208,
+    "question": "What will happen to the pressure of a gas if its temperature is reduced to -273°C?",
+    "option": {
+      "a": "It will decrease",
+      "b": "it will drop to zero",
+      "c": " It will increase",
+      "d": " It will remain constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At -273°C (absolute zero), the pressure of an ideal gas becomes zero because all molecular motion ceases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 209,
     "question": "Which of the following does Not use magnetic effect of current to function?",
     "option": {
@@ -3420,6 +3484,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nWeight in air = 50 N\nMass of water displaced = 3.7 kg\nUpthrust = ?\n\nUsing Archimedes' Principle:\nUpthrust = Weight of fluid displaced\nCalculate weight of water displaced:\nWeight = Mass × g\nUpthrust = 3.7 kg × 10 m/s²\nUpthrust = 37 N\nExplanation:\nWhen a body is immersed in a fluid, it experiences an upward force (upthrust) equal to the weight of the fluid it displaces. Since the body displaces 3.7 kg of water, the upthrust equals the weight of this water.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 219,
+    "question": "The impulse of a force is deduced from Newton's second law as",
+    "option": {
+      "a": "F = ma",
+      "b": "F = m(v−u)/t",
+      "c": ". F = mg",
+      "d": "F = mv - mu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Impulse is deduced from Newton's second law as F = m(v - u)/t, where force equals mass times the rate of change of velocity.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -4896,6 +4976,22 @@
     "examyear": "2018"
   },
   {
+    "id": 312,
+    "question": "Convex mirrors are used as driving mirrors because images formed are",
+    "option": {
+      "a": "erect, Virtual and diminished",
+      "b": "erect, real and diminished",
+      "c": "erect, virtual and magnified",
+      "d": "inverted, virtual and diminished"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Convex mirrors are used as driving mirrors because they produce erect, virtual, and diminished images, providing a wide field of view.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 313,
     "question": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
     "option": {
@@ -5932,6 +6028,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nR₁ = 200Ω\nR₂ = 500Ω\nR₃ = 1kΩ = 1000Ω\nVoltage (V) = 6V\nIn series connection\nPotential difference across 200Ω = ?\n\nStep 1: Calculate total resistance\nFor series: R_total = R₁ + R₂ + R₃\nR_total = 200 + 500 + 1000\nR_total = 1700Ω\nStep 2: Calculate current through circuit\nUsing Ohm's law: I = V/R_total\nI = 6/1700\nI = 0.00353 A (approximately)\nStep 3: Calculate voltage across 200Ω resistor\nIn series, same current flows through all resistors\nV₁ = I × R₁\nV₁ = (6/1700) × 200\nV₁ = 1200/1700\nV₁ = 0.706V ≈ 0.71V\nAlternative method (voltage divider):\nV₁ = (R₁/R_total) × V_total\nV₁ = (200/1700) × 6\nV₁ = 1200/1700 = 0.706V ≈ 0.71V",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 378,
+    "question": "An a.c of 1A at a frequency of 800 cycles per second flows through a coil, the inductance of which is 2.5mH and the resistance of which is 5Ω. What is the power absorbed in the Coil?\n",
+    "option": {
+      "a": "5W",
+      "b": "6W",
+      "c": "7W",
+      "d": "8W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCurrent (I) = 1A (r.m.s value)\nFrequency (f) = 800 Hz\nInductance (L) = 2.5mH = 2.5 × 10⁻³ H\nResistance (R) = 5Ω\nPower absorbed = ?\n\nKey principle:\nIn an AC circuit with resistance and inductance:\n\nPower is dissipated only in the resistance\nInductance stores and returns energy (no net power dissipation)\n\nFormula for power absorbed:\nP = I²R\nNote: The inductance affects impedance and phase angle but doesn't dissipate power.\nCalculating power:\nP = I²R\nP = (1)² × 5\nP = 1 × 5\nP = 5W",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -7472,6 +7584,22 @@
     "examyear": "2022"
   },
   {
+    "id": 475,
+    "question": "When the plate area of a capacitor increases?",
+    "option": {
+      "a": "the voltage can withstand increase",
+      "b": "the capacitance decreases",
+      "c": "the capacitance is unaffected",
+      "d": "the capacitance increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Recall the capacitance formula\nFor a parallel plate capacitor:\nC = ε₀εᵣA/d\nWhere:\n\nC = capacitance\nε₀ = permittivity of free space\nεᵣ = relative permittivity of dielectric\nA = plate area\nd = distance between plates\n\nStep 2: Analyze the relationship\nFrom the formula:\n\nCapacitance is directly proportional to plate area (A)\nC ∝ A\n\nStep 3: Determine the effect\nWhen plate area (A) increases:\n\nThe numerator of the fraction increases\nTherefore, capacitance (C) increases",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 476,
     "question": "A magnet relay is a device used for?",
     "option": {
@@ -7692,6 +7820,22 @@
     "image": "",
     "answer": "d",
     "solution": "Gravitational pull on moon = 1/6 × gravitational pull on Earth\nWeight on moon, Wₘ = 6.0 N\nWeight on Earth, Wₑ = ?\n\nSolution:\nUsing the relationship between weight and gravity:\nWeight = mass × gravitational acceleration\nStep 1: Establish the relationship\nSince gₘ = 1/6 gₑ\nFor the same mass:\nWₘ/Wₑ = gₘ/gₑ = 1/6\nStep 2: Rearrange the equation\nWₑ = 6 × Wₘ\nStep 3: Substitute the known values\nWₑ = 6 × 6.0\nWₑ = 36.0 N",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 490,
+    "question": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
+    "option": {
+      "a": "specific latent heat of fusion of ice",
+      "b": "specific heat capacity of ice",
+      "c": "heat capacity of ice",
+      "d": " specific heat of vaporization of ice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Specific latent heat of fusion is the energy required per kilogram to change a substance from solid to liquid at its melting point without temperature change. For ice, this value is approximately 334 kJ/kg or 3.34 × 10⁵ J/kg.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -8384,6 +8528,22 @@
     "examyear": "2023"
   },
   {
+    "id": 534,
+    "question": "An object is placed 35 cm away from a convex mirror with a focal length of magnitude 15 cm. What is the location of the image?",
+    "option": {
+      "a": "26.25 cm behind the mirror",
+      "b": "10.5 cm behind the mirror",
+      "c": "26.25 cm in front of the mirror",
+      "d": "10.5 cm in front of the mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nObject distance, u = 35 cm\nFocal length magnitude = 15 cm\nFor convex mirror, f = +15 cm (positive by sign convention)\nImage distance, v = ?\n\nSolution:\nStep 1: Apply sign convention for convex mirror\nFor a convex mirror:\n\nObject distance, u = -35 cm (object is in front, negative)\nFocal length, f = +15 cm (focal point is behind mirror, positive)\n\nStep 2: Apply mirror formula\n1/f = 1/v + 1/u\n1/v = 1/f - 1/u\nStep 3: Substitute values\n1/v = 1/(+15) - 1/(-35)\n1/v = 1/15 + 1/35\nStep 4: Find common denominator and solve\n1/v = 7/105 + 3/105\n1/v = 10/105\n1/v = 2/21\nv = 21/2\nv = 10.5 cm",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 535,
     "question": "A relative density bottle has a mass of 19 g when empty. When it is completely filled with water, its mass is 66 g. What will be its mass if completely filled with alcohol of relative density 0.8?",
     "option": {
@@ -8828,6 +8988,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615477/ALOC-Questions/Physics/2024/Physics_2024_Q13_p2yj5a.png",
     "answer": "b",
     "solution": "Given information:\n\nMaximum current through galvanometer, I = 20 mA = 0.020 A\nInternal resistance of galvanometer, r = 10 Ω\nMaximum voltage to be measured, V = 40 V\nMultiplier resistance, R = ?\n\nSolution:\nStep 1: Understand the circuit\nThe multiplier resistance R is connected in series with the galvanometer to extend its voltage range. The same current flows through both R and the galvanometer.\nStep 2: Apply voltage division\nTotal voltage = Voltage across R + Voltage across galvanometer\nV = IR + Ir\nStep 3: Substitute the known values\n40 = 0.020 × R + 0.020 × 10\n40 = 0.020R + 0.2\nStep 4: Solve for R\n40 - 0.2 = 0.020R\n39.8 = 0.020R\nR = 39.8/0.020\nR = 1990 Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 563,
+    "question": "5 X 10⁻³kg of liquid at its boiling point is evaporated in 20s by the heat generated by a resistor of 2Ω when a current of 10A is used. The specific latent heat of vaporization of the liquid is",
+    "option": {
+      "a": "8.0 x 10⁴Jkg⁻¹",
+      "b": " 8.0 x 10⁵Jkg⁻¹",
+      "c": "8.0 x 10⁶Jkg⁻¹",
+      "d": " 8.0 x 10⁷Jkg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass of liquid, m = 5 × 10⁻³ kg\nTime, t = 20 s\nResistance, R = 2 Ω\nCurrent, I = 10 A\nSpecific latent heat of vaporization, L = ?\n\nSolution:\nStep 1: Calculate heat generated by resistor\nHeat generated by electrical resistance:\nQ = I²Rt\nQ = (10)² × 2 × 20\nQ = 100 × 2 × 20\nQ = 4000 J\nStep 2: Apply latent heat formula\nHeat required for vaporization:\nQ = mL\nL = Q/m\nStep 3: Substitute values\nL = 4000/(5 × 10⁻³)\nL = 4000/0.005\nL = 800,000 J/kg\nL = 8.0 × 10⁵ J/kg\n",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -9376,6 +9552,22 @@
     "examyear": "2024"
   },
   {
+    "id": 598,
+    "question": "The property by which a material returns to its original shape after the removal of force is called ",
+    "option": {
+      "a": "Elasticity",
+      "b": "Ductility",
+      "c": "Malleability",
+      "d": "Plasticity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The property described in this question is called Elasticity which is the ability of a substance to regain its original shape and size after the removal of the distorting force.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 599,
     "question": "The energy in a moving car is an example of",
     "option": {
@@ -9788,6 +9980,22 @@
     "image": "",
     "answer": "b",
     "solution": "Newton's third law: For every action, there is an equal and opposite reaction\n\n\nAll four examples (I, II, III, and IV) are based on Newton's third law of motion.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 625,
+    "question": "In a hydraulic press, a force of 40N is applied on the effort piston of area 0.4m². If the force exerted on the load piston is 400N, the area of the large piston is",
+    "option": {
+      "a": " 4m²",
+      "b": "8m²",
+      "c": "2m²",
+      "d": "1m²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nForce on effort piston, F₁ = 40 N\nArea of effort piston, A₁ = 0.4 m²\nForce on load piston, F₂ = 400 N\nArea of load piston, A₂ = ?\n\nSolution:\nPascal's Principle:\nIn a hydraulic press, pressure is transmitted equally throughout the fluid.\nP₁ = P₂\nFormula:\nF₁/A₁ = F₂/A₂\nStep 1: Substitute values\n40/0.4 = 400/A₂\nStep 2: Cross-multiply\n40 × A₂ = 400 × 0.4\n40 × A₂ = 160\nStep 3: Solve for A₂\nA₂ = 160/40\nA₂ = 4 m²",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -11568,6 +11776,22 @@
     "examyear": "2006"
   },
   {
+    "id": 737,
+    "question": "A person can focus objects when they lie beyond 75 cm from his eyes. The focal length of the lens required to reduce his least distance of distinct vision to 25 cm is?",
+    "option": {
+      "a": " 37.50 cm",
+      "b": "75.00 cm",
+      "c": "18.75 cm",
+      "d": " 25.00 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nObject distance (u) = -25 cm (at normal near point)\nImage distance (v) = -75 cm (at person's actual near point, virtual image)\nFocal length (f) = ?\nUsing lens formula:\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-75) - 1/(-25)\n1/f = -1/75 + 1/25\n1/f = -1/75 + 3/75\n1/f = 2/75\nf = 75/2\nf = 37.5 cm\nType of lens:\nPositive focal length → Converging (convex) lens",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 738,
     "question": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?",
     "option": {
@@ -13328,6 +13552,22 @@
     "examyear": "2008"
   },
   {
+    "id": 848,
+    "question": "\n¹⁴₇N + ⁴₂He → ¹⁷₈O + X\nIn the equation above, the particle X is?",
+    "option": {
+      "a": "A proton",
+      "b": "A neutron",
+      "c": "An α-particle",
+      "d": " A β-particle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "for the conversion of mass 14 + 4 = 17 + x\n∴ X = 18 - 17 = 1\nfor conservation pf charge:7 + 2 = 8 + y\ny = 9 - 8 = 1\nThus, the element is 11X which is equal to hydrogen nucleus ( proton)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 849,
     "question": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass.",
     "option": {
@@ -13568,6 +13808,22 @@
     "examyear": "2009"
   },
   {
+    "id": 864,
+    "question": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Specific latent heat of vaporization of water = 2.3 × 10⁶ J kg⁻¹]",
+    "option": {
+      "a": "1.15 × 10⁴ s",
+      "b": "1.15 × 10³ s",
+      "c": "4.6 × 10⁴ s",
+      "d": "4.6 × 10³ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPower of heating coil, P = 1000 W\nMass of water, m = 2 kg\nSpecific latent heat of vaporization, L = 2.3 × 10⁶ J kg⁻¹\nWater is already at boiling point, so only latent heat is required.\n\nSolution:\n\nStep 1: Calculate heat energy required to vaporize the water\nQ = m × L = 2 kg × 2.3 × 10⁶ J kg⁻¹ = 4.6 × 10⁶ J\n\nStep 2: Relate heat energy to electrical energy supplied\nElectrical energy E = P × t\nAssuming all electrical energy is converted to heat, E = Q.\nTherefore, P × t = Q\n\nStep 3: Solve for time t\nt = Q / P = (4.6 × 10⁶ J) / (1000 W) = 4.6 × 10³ s",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 865,
     "question": "It is observed that water will wet a clean glass because the?",
     "option": {
@@ -13708,6 +13964,22 @@
     "image": "",
     "answer": "d",
     "solution": "Since 1.51, the refractive index of X is greater than 1.33, the refractive index of y, the speed of light in y is higher than that in X",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 874,
+    "question": "The ability of the human eye to focus object on the retina is referred to as the power of?",
+    "option": {
+      "a": "interference",
+      "b": "diffraction",
+      "c": "accomodation",
+      "d": "superposition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Accommodation is the adjustment of the optics of the eye to keep an object in focus on the retina as its distance from the eye varies. ",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -14028,6 +14300,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433350/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_45_treskz.png",
     "answer": "b",
     "solution": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6\n= 3/6\n∴ R = 6/3 = 2\nE = I(R + r) = 4(2 + 0) = 8v",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 895,
+    "question": "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80V, 110V, 40V respectively, the effective potential difference is?",
+    "option": {
+      "a": "116.3 V",
+      "b": "50.0 V",
+      "c": " 230.0 V",
+      "d": "106.3 V"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433379/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_46_exvpt2.png",
+    "answer": "d",
+    "solution": "Formula for total voltage in series RLC:\nV_total = √[V_R² + (V_L - V_C)²]\nStep 1: Calculate net reactive voltage\nNet reactive voltage = V_L - V_C = 40 - 110 = -70 V\n(Negative indicates capacitive reactance dominates)\nTaking magnitude: |V_L - V_C| = 70 V\nStep 2: Calculate effective voltage\nV_eff = √[V_R² + (V_L - V_C)²]\nV_eff = √[80² + 70²]\nV_eff = √[6400 + 4900]\nV_eff = √11,300\nV_eff = 106.3 V",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -15136,6 +15424,22 @@
     "examyear": "2011"
   },
   {
+    "id": 965,
+    "question": "A perfect emitter or absorber of radiant energy is a?",
+    "option": {
+      "a": "conductor",
+      "b": "black body",
+      "c": "white body",
+      "d": " red body"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dull, black surface are good emitters or absorbers of energy",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 966,
     "question": "The ground is always cold at night because the",
     "option": {
@@ -15452,6 +15756,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁵ s⁻¹\nHalf-life (T₁/₂) = ?\n\nFormula relating half-life and decay constant:\nT₁/₂ = ln(2)/λ\nT₁/₂ = 0.693/λ\nSubstituting values:\nT₁/₂ = 0.693/(10⁻⁵)\nT₁/₂ = 0.693 × 10⁵\nT₁/₂ = 6.93 × 10⁴ s",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 986,
+    "question": "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as",
+    "option": {
+      "a": "saturation",
+      "b": "bonding",
+      "c": "amplification",
+      "d": "dopping"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The process of adding impurities to drastically alter the electrical properties of germanium (or other semiconductors) is called doping. This is fundamental to semiconductor technology and the basis of modern electronics.",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -15900,6 +16220,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1015,
+    "question": "2000 cm³ of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?",
+    "option": {
+      "a": "1896.5 cm³",
+      "b": "1767.3 cm³",
+      "c": "1676.3 cm³",
+      "d": "1456.5 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial volume, V₁ = 2000 cm³\nInitial temperature, T₁ = 27°C = 27 + 273 = 300 K\nInitial pressure, P₁ = 700 mmHg\nStandard temperature, T₂ = 0°C = 273 K\nStandard pressure, P₂ = 760 mmHg\n\nSolution:\n\nStep 1: Combined gas law\nFor a fixed mass of gas: (P₁V₁)/T₁ = (P₂V₂)/T₂\n\nStep 2: Rearrange for V₂\nV₂ = (P₁V₁/T₁) × (T₂/P₂)\n\nStep 3: Substitute values\nV₂ = (700 × 2000 / 300) × (273 / 760)\n\nStep 4: Simplify\n700 × 2000 = 1 400 000\n1 400 000 / 300 = 4 666.6667\n273 / 760 = 0.35921\n\nV₂ = 4 666.6667 × 0.35921 = 1 676.3 cm³",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -17468,6 +17804,22 @@
     "image": "",
     "answer": "b",
     "solution": "The magnitude of the angle of dip at the equator is 0°.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1114,
+    "question": "When an atom undergoes a beta decay, the atomic number of the nucleus",
+    "option": {
+      "a": "Remains unchanged",
+      "b": "Decreases by one",
+      "c": "Increases by one",
+      "d": "Becomes zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The atomic number (number of protons) increases by one because a neutron is replaced by a proton. The mass number remains the same.",
     "examtype": "utme",
     "examyear": "2014"
   },

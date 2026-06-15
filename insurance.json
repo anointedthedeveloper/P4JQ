@@ -256,6 +256,22 @@
     "examyear": "2014"
   },
   {
+    "id": 17,
+    "question": "How much premium will the insurer charge?",
+    "option": {
+      "a": "N= 3,750",
+      "b": "N= 13,750",
+      "c": "N= 17,500",
+      "d": "N= 31,250"
+    },
+    "section": "XYC Industries Limited proposed a fire risk to Adequate Insurance Plc. on a total sum insured of N= 5,000,000.00. The risk was accepted on a premium rate of 0.35%. After survey, the insurer charged a rate of 0.275%.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 18,
     "question": "How  much  premium  will  the  insurer  return  to  the insured?",
     "option": {
@@ -283,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 20,
+    "question": "A residential building built beside a petrol filling station is described as a",
+    "option": {
+      "a": "risk",
+      "b": "hazard",
+      "c": "peril",
+      "d": "liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -647,6 +679,22 @@
       "b": "The insurer only",
       "c": "The insurer and proposer",
       "d": "The third party and insured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 44,
+    "question": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
+    "option": {
+      "a": "N= 1,285.00",
+      "b": "N= 771.00",
+      "c": "N= 514.00",
+      "d": "N= 180.00"
     },
     "section": "",
     "image": "",
@@ -1280,6 +1328,22 @@
     "examyear": "1"
   },
   {
+    "id": 84,
+    "question": "A person who has lawful possession of goods belonging to another is known as",
+    "option": {
+      "a": "Owner",
+      "b": "Bailee",
+      "c": "Agent",
+      "d": "Trustee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 85,
     "question": "Transfer of rights and liabilities under a contract with the consent of the other party is known as",
     "option": {
@@ -1371,6 +1435,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 91,
+    "question": "A financial compensation sufficient to return the insured back to the original position after loss is known as",
+    "option": {
+      "a": "deposit",
+      "b": "loan",
+      "c": "indemnity",
+      "d": "profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -1856,6 +1936,22 @@
     "examyear": "2"
   },
   {
+    "id": 122,
+    "question": "The policy that covers debt that cannot be recovered is called",
+    "option": {
+      "a": "Life assurance",
+      "b": "Motor vehicle policy",
+      "c": "Comprehensive policy",
+      "d": "Bad debt insurance policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 123,
     "question": "Risk whose cause is beyond human control is",
     "option": {
@@ -2167,6 +2263,22 @@
       "b": "Compensation",
       "c": "Declaration",
       "d": "Death benefit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 143,
+    "question": "The clauses in the policy which make alterations or additions to the information stated in the policy is known as",
+    "option": {
+      "a": "correction",
+      "b": "Modification",
+      "c": "Change",
+      "d": "Endorsement"
     },
     "section": "",
     "image": "",
@@ -3552,6 +3664,22 @@
     "examyear": "4"
   },
   {
+    "id": 230,
+    "question": "one of these is a content of a proposal form",
+    "option": {
+      "a": "children of the proposer",
+      "b": "education of the proposer",
+      "c": "occupation of the proposer",
+      "d": "educational"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 231,
     "question": "The statement “ I to the best of my knowledge hereby confirm that the statements contained in this prosal form are true and correct” represents",
     "option": {
@@ -3675,6 +3803,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 239,
+    "question": "The part of a policy form that shows the name and address of the company is known as",
+    "option": {
+      "a": "heading",
+      "b": "conclusion",
+      "c": "condition",
+      "d": "preamble"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -3927,6 +4071,22 @@
       "b": "multiplication of risk",
       "c": "transfer of risk",
       "d": "adding of risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 256,
+    "question": "Another name for the assured is",
+    "option": {
+      "a": "insurance company’s client",
+      "b": "insurance broker",
+      "c": "insurance company",
+      "d": "insurance agent"
     },
     "section": "",
     "image": "",
@@ -4443,6 +4603,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 289,
+    "question": "The division of total loss are",
+    "option": {
+      "a": "average loss and partial loss",
+      "b": "partial loss and full loss",
+      "c": "total loss and actual loss",
+      "d": "actual total loss and constructive total loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

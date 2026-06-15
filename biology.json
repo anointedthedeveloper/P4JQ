@@ -720,6 +720,22 @@
     "examyear": "2004"
   },
   {
+    "id": 46,
+    "question": "The most common characteristic of the fungal hyphae is the possession of  ",
+    "option": {
+      "a": "cell like compartments with one nucleus each  ",
+      "b": "cell walls that are true are both rigid and chitinous  ",
+      "c": "a multicellular mycelium in strate  ",
+      "d": "cell like partitions formed  by cross walls"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 47,
     "question": "Insects are considered the most successful among the invertebrates because they",
     "option": {
@@ -1547,6 +1563,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 99,
+    "question": "The urinary tubules of the kidney function through  ",
+    "option": {
+      "a": "osmosis and diffusion  ",
+      "b": "active transport and osmosis  ",
+      "c": "ultra filtration and selective re-absorption",
+      "d": "active transport and cytoplasmic streaming  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"

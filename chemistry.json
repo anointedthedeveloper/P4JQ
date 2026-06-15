@@ -112,6 +112,22 @@
     "examyear": "2001"
   },
   {
+    "id": 8,
+    "question": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is",
+    "option": {
+      "a": "16",
+      "b": "18",
+      "c": "12",
+      "d": "14"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 9,
     "question": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas",
     "option": {
@@ -1728,6 +1744,22 @@
     "examyear": "2003"
   },
   {
+    "id": 110,
+    "question": "Chlorine gas turns a damp starch-iodide paper",
+    "option": {
+      "a": "Pink",
+      "b": "Colourless",
+      "c": "Red",
+      "d": "Dark blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 111,
     "question": "The modern process of manufacturing steel from iron is by",
     "option": {
@@ -1771,6 +1803,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 114,
+    "question": "How many isomers does pentane have",
+    "option": {
+      "a": "6",
+      "b": "5",
+      "c": "4",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -4224,6 +4272,22 @@
     "examyear": "2010"
   },
   {
+    "id": 268,
+    "question": "The maximum number of electrons in the L shell of an atom is",
+    "option": {
+      "a": "8",
+      "b": "18",
+      "c": "32",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 269,
     "question": "Elements in the same periodic table have the same",
     "option": {
@@ -6096,6 +6160,22 @@
     "examyear": "2016"
   },
   {
+    "id": 386,
+    "question": "The drying agent suitable for drying ammonia is",
+    "option": {
+      "a": "Calcium Chloride",
+      "b": "Calcium Oxide",
+      "c": "Phosphorus (V) Oxide",
+      "d": "Concentrated H₂SO₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calcium oxide (CaO) is the only suitable drying agent for ammonia because it is a basic oxide that does not react with ammonia. Concentrated H₂SO₄ and P₂O₅ are acidic and react with the basic NH₃. Anhydrous CaCl₂ forms a complex with ammonia (CaCl₂·8NH₃) and cannot be used.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 387,
     "question": "The arrangement of particles in crystal lattices can be studied using",
     "option": {
@@ -6540,6 +6620,22 @@
     "image": "",
     "answer": "a",
     "solution": "Rusting of iron requires both oxygen (O₂) and water (H₂O). Oxygen acts as the oxidizing agent converting Fe to Fe²⁺/Fe³⁺, while water acts as the electrolyte that facilitates the electrochemical corrosion process. In the complete absence of either, rusting does not occur.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 415,
+    "question": "For a general equation of the nature xP + yQ → mR + nS, the expression for the equilibrium constant is",
+    "option": {
+      "a": "k[P]ˣ[Q]ʸ",
+      "b": "[P]ˣ[Q]ʸ / [R]ᵐ[S]ⁿ",
+      "c": "[R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ",
+      "d": "m[R]n[S] / x[P]y[Q]"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The equilibrium constant Kc for the reaction xP + yQ ⇌ mR + nS is expressed as the concentration of products raised to their stoichiometric powers divided by the concentration of reactants raised to their stoichiometric powers: Kc = [R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -7968,6 +8064,22 @@
     "examyear": "2018"
   },
   {
+    "id": 505,
+    "question": "A secondary alkanol can be oxidized to give an?",
+    "option": {
+      "a": "alkanone",
+      "b": "alkyne",
+      "c": "alkanoic acid",
+      "d": "alkanal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Secondary alkanols have the -OH group on a carbon bonded to two other carbon atoms. On oxidation with acidified KMnO₄ or K₂Cr₂O₇, secondary alkanols are oxidized to alkanones (ketones), which have the C=O group flanked by two alkyl groups. They cannot be oxidized further to carboxylic acids under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 506,
     "question": "Which of the following will give a precipitate with an aqueous solution of copper (I) chloride?",
     "option": {
@@ -8204,6 +8316,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the contact process, SO₃ is absorbed into concentrated H₂SO₄ (not water) to form oleum (H₂S₂O₇), which is then diluted with water. This is because the direct dissolution of SO₃ in water is extremely exothermic and produces a violent, uncontrollable reaction with acid mist formation. Absorbing into concentrated H₂SO₄ is safer and more efficient.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 521,
+    "question": "Which of the following statements does NOT show Rutherford's account of Nuclear Theory? An atom contains a region",
+    "option": {
+      "a": "which contains protons and neutrons",
+      "b": "which is positively charged",
+      "c": "which is massive and can cause deflection of a few projectiles",
+      "d": "which is very large and in which close to 98% of projectiles pass undeflected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Rutherford's nuclear model described the nucleus as a tiny, dense, positively charged centre (options B and C). Most alpha particles passed straight through (option D — though the nucleus is tiny, not large). However, Rutherford did NOT identify neutrons — that was Chadwick in 1932. Rutherford's model only described protons in the nucleus, not neutrons. Option A is not part of Rutherford's original nuclear theory.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -9260,6 +9388,22 @@
     "image": "",
     "answer": "c",
     "solution": "Proteins are polymers of amino acids linked by peptide bonds. In acid solution, water molecules break these peptide bonds in a reaction called hydrolysis, producing the constituent amino acids. This is the reverse of condensation polymerisation and is used in protein digestion and laboratory analysis.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 588,
+    "question": "The general formula for the Alkanals is?",
+    "option": {
+      "a": "R₂CO",
+      "b": "RCHO",
+      "c": "ROH",
+      "d": "RCOOR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Alkanals are aldehydes containing the functional group -CHO at the end of the carbon chain. The general formula is RCHO, where R is an alkyl group. R₂CO represents ketones (alkanones), ROH represents alcohols (alkanols), and RCOOR represents esters (alkanoates).",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -11024,6 +11168,38 @@
     "examyear": "2023"
   },
   {
+    "id": 699,
+    "question": "When an acidic solution is diluted, what happens to its pH?",
+    "option": {
+      "a": "It depends on the specific acid",
+      "b": "It decreases",
+      "c": "It remains the same",
+      "d": "It increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diluting an acidic solution adds more water, which decreases the concentration of H⁺ ions. Since pH = −log[H⁺], a decrease in H⁺ concentration causes the pH to increase (move closer to 7). The solution becomes less acidic but remains acidic — the pH rises toward 7 but does not exceed it on dilution alone.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 700,
+    "question": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+    "option": {
+      "a": "Concentration of reactants",
+      "b": "Presence of a catalyst",
+      "c": "Molecular weight of products",
+      "d": "Temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The rate of a chemical reaction is affected by concentration of reactants, temperature, surface area, presence of a catalyst, and light (for some reactions). The molecular weight of products has no effect on the rate of the reaction, as products are formed after the reaction occurs and do not influence how quickly reactants are converted.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 701,
     "question": "Which organic compound is responsible for the characteristic aroma of fruits?",
     "option": {
@@ -11392,6 +11568,22 @@
     "examyear": "2024"
   },
   {
+    "id": 724,
+    "question": "An organic compound contains 53.1% Carbon, 6.2% Hydrogen, 12.4% Nitrogen, and 28.3% Oxygen by mass. What is the molecular formula of the compound if its vapour density is 56.5? [C=12, H=1, N=14, O=16]",
+    "option": {
+      "a": "C₅H₇NO₂",
+      "b": "C₅H₆NO₂",
+      "c": "C₃H₆NO₂",
+      "d": "C₃H₇NO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mole ratio: C = 53.1/12 = 4.425; H = 6.2/1 = 6.2; N = 12.4/14 = 0.886; O = 28.3/16 = 1.769. Divide by smallest (0.886): C = 5.0; H = 7.0; N = 1.0; O = 2.0. Empirical formula = C₅H₇NO₂. Empirical formula mass = 60+7+14+32 = 113. Molar mass = 2 × vapour density = 2 × 56.5 = 113 g/mol. n = 113 ÷ 113 = 1. Molecular formula = C₅H₇NO₂.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 725,
     "question": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, its vapour density is likely to be",
     "option": {
@@ -11596,6 +11788,22 @@
     "image": "",
     "answer": "b",
     "solution": "Litmus paper only indicates whether a solution is acidic or basic — it turns red for any acid regardless of strength. It cannot distinguish between a strong acid and a weak acid. Conductivity measurement distinguishes them because strong acids fully ionise and conduct electricity much better. pH measurement distinguishes them since strong acids have lower pH at the same concentration. Heat of neutralisation also differs between strong and weak acids.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 738,
+    "question": "The chemical formula for potassiumhexacyanoferrate(II) is",
+    "option": {
+      "a": "[Fe(CN)₆]⁴⁻",
+      "b": "K₃Fe(CN)₆",
+      "c": "Fe(CN)₆",
+      "d": "K₄Fe(CN)₆"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Potassiumhexacyanoferrate(II) contains Fe²⁺. The hexacyano complex [Fe(CN)₆]⁴⁻ has a 4− charge (since Fe is +2 and 6 CN⁻ each contribute −1, total = +2 − 6 = −4). To balance, 4 K⁺ ions are needed. The correct formula is K₄Fe(CN)₆. K₃Fe(CN)₆ is potassiumhexacyanoferrate(III) which contains Fe³⁺.",
     "examtype": "utme",
     "examyear": "2024"
   },
